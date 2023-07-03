@@ -1,0 +1,7 @@
+.vs/
+bin/
+obj/
+Properties/
+App.config
+first-non-repeated-occurance.csproj
+first-non-repeated-occurance.sln
